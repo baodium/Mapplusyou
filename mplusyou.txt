@@ -1,0 +1,41 @@
+Domain: mapplusyou.com
+Username: mapplusy
+Password: 5Kr5cjA47q
+Hosting Package: Pro (6GB)
+Server IP: 5.153.10.229
+Nameserver 1: ns17.whogohost.com
+Nameserver 2: ns18.whogohost.com
+
+Temporarily you may use one of the addresses given below manage your web site
+
+Temporary FTP Hostname: 5.153.10.229
+Temporary Webpage URL: http://5.153.10.229/~mapplusy/
+Temporary Control Panel: http://5.153.10.229/cpanel
+
+Once your domain has Propagated
+
+FTP Hostname: www.mapplusyou.com
+Webpage URL: http://www.mapplusyou.com
+Control Panel: http://www.mapplusyou.com/cpanel
+
+To Access Webmail:http://www.mapplusyou.com/webmail
+
+Mail settings
+
+Catch all email with your default email account
+
+POP3 Host Address : mail.mapplusyou.com
+SMTP Host Address: mail.mapplusyou.com
+Username: mapplusy
+Password: 5Kr5cjA47q
+
+Additional mail accounts that you add
+
+POP3 Host Address : mail.mapplusyou.com
+SMTP Host Address: mail.mapplusyou.com
+Username : The FULL email address that you are picking up from (e.g. info@yourdomain.com). 
+If your email client cannot accept a @ symbol, then you may replace this with a backslash .
+Password : As specified in your control panel
+
+Thank you for choosing us.
+

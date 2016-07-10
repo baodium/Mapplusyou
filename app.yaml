@@ -1,0 +1,19 @@
+application: gcdc2013-mapplusyou
+version: 20
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /resources
+  static_dir: resources
+
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+  
+- url: .*
+  script: index.php
+  
+ 
+  
